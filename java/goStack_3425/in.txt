@@ -1,0 +1,11 @@
+POP
+NUM -100
+NUM 11
+MOD
+END
+3
+0
+2
+1
+
+QUIT
